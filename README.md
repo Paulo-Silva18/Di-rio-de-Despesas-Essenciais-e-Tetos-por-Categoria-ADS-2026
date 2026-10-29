@@ -3,8 +3,8 @@
 Aplicativo Android (Kotlin + Jetpack Compose) para controle de gastos do dia a dia, com teto mensal individual por categoria.
 Disciplina: Programação Para Dispositivos Móveis — IFTM Campus Patrocínio — Prova 05.
 
-- **Protótipo no Figma:** <COLE_AQUI_O_LINK_PÚBLICO>
-- **Vídeo demonstrativo:** <COLE_AQUI_O_LINK_DO_YOUTUBE_NÃO_LISTADO>
+- **Protótipo no Figma:** https://www.figma.com/design/1tXnA5pcVRNAcya9HPjgou/Untitled?node-id=0-1&t=eSjIa1XRBcV9OdZC-1
+- **Vídeo demonstrativo:** https://youtu.be/UWX_KDLbABU
 
 ## Funcionalidades
 1. Cadastro e login com e-mail/senha (Firebase Authentication).
